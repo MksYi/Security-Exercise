@@ -44,3 +44,7 @@ https://los.eagle-jump.org/xavis_fd4389515d6540477114ec3c79623afe.php?pw=%C2%B8%
 
 補充:
 至於UrlEncode後，會出現%c2%c3這個也不是很清楚，剛開始單純以為可以直接透過%b8等方式直接組Payload後送出，但也行不通。
+
+## 授權聲明
+[![copyright © 2019 By MksYi](https://img.shields.io/badge/copyright%20©-%202019%20By%20MksYi-blue.svg)](https://mks.tw/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)

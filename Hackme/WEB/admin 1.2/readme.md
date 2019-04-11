@@ -37,3 +37,7 @@ Table 與 Column 長度皆為 30 不用腳本跑，手動嘗盲測真的會要�
 最後跑 flag 得 
 `FLAG{W0W, You found the correct table and the flag, and UserAgent}`
 ![](https://i.imgur.com/z59O30L.png)
+
+## 授權聲明
+[![copyright © 2019 By MksYi](https://img.shields.io/badge/copyright%20©-%202019%20By%20MksYi-blue.svg)](https://mks.tw/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
