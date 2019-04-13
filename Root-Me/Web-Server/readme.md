@@ -1,7 +1,7 @@
 [Root-Me] - [Web-Server]
 ===
 
-該部分為 Web-Client 解題狀況 22/56。
+該部分為 Web-Client 解題狀況 28/56。
 
 - [Solve] - [HTML]
 - [Solve] - [HTTP - Open redirect]
@@ -25,12 +25,12 @@
 - [Solve] - [PHP filters]
 - [Solve] - [PHP register globals]
 - [Solve] - [File upload - ZIP]
-- [-----] - [Injection de commande - contournement de filtre]
-- [-----] - [Local File Inclusion]
-- [-----] - [Local File Inclusion - Double encoding]
-- [-----] - [PHP - Loose Comparison]
-- [-----] - [PHP preg_replace()]
-- [-----] - [PHP type juggling]
+- [Solve] - [Injection de commande - contournement de filtre]
+- [Solve] - [Local File Inclusion]
+- [Solve] - [Local File Inclusion - Double encoding]
+- [Solve] - [PHP - Loose Comparison]
+- [Solve] - [PHP preg_replace()]
+- [Solve] - [PHP type juggling]
 - [-----] - [Remote File Inclusion]
 - [-----] - [Server-side Template Injection]
 - [-----] - [SQL injection - authentification]
