@@ -1,7 +1,7 @@
 [Root-Me] - [Web-Server]
 ===
 
-該部分為 Web-Client 解題狀況 28/56。
+該部分為 Web-Server 解題狀況 34/56。
 
 - [Solve] - [HTML]
 - [Solve] - [HTTP - Open redirect]
@@ -31,12 +31,12 @@
 - [Solve] - [PHP - Loose Comparison]
 - [Solve] - [PHP preg_replace()]
 - [Solve] - [PHP type juggling]
-- [-----] - [Remote File Inclusion]
-- [-----] - [Server-side Template Injection]
-- [-----] - [SQL injection - authentification]
-- [-----] - [SQL injection - authentification - GBK]
-- [-----] - [SQL injection - string]
-- [-----] - [XSLT - Code execution]
+- [Solve] - [Remote File Inclusion]
+- [Solve] - [Server-side Template Injection]
+- [Solve] - [SQL injection - authentification]
+- [Solve] - [SQL injection - authentification - GBK]
+- [Solve] - [SQL injection - string]
+- [Solve] - [XSLT - Code execution]
 - [-----] - [LDAP injection - authentification]
 - [-----] - [NoSQL injection - authentification]
 - [-----] - [Path Truncation]
