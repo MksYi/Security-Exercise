@@ -4,7 +4,8 @@ Root-Me [XSLT - Code execution](https://www.root-me.org/en/Challenges/Web-Server
 感覺像是選擇樣板的功能頁面(?
 
 ## 解題關鍵
-1. SQL-Injection
+1. XML
+2. XSL
 
 ## 提示訊息
 ```
@@ -127,6 +128,7 @@ _php-fpm.pool.inc
 
 ## Reference
 http://repository.root-me.org/Exploitation%20-%20Web/EN%20-%20XSLT%20Processing%20Security%20and%20Server%20Side%20Request%20Forgeries%20-%20OWASP%20Switzerland%20Meeting%202015.pdf
+https://security.stackexchange.com/questions/170712/execute-a-php-function-that-returns-an-array-from-an-xsl-file?rq=1
 
 ## 授權聲明
 [![copyright © 2019 By MksYi](https://img.shields.io/badge/copyright%20©-%202019%20By%20MksYi-blue.svg)](https://mks.tw/)
