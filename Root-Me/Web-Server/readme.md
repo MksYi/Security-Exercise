@@ -1,7 +1,7 @@
 [Root-Me] - [Web-Server]
 ===
 
-該部分為 Web-Server 解題狀況 37/56。
+該部分為 Web-Server 解題狀況 40/56。
 
 - [Solve] - [HTML]
 - [Solve] - [HTTP - Open redirect]
@@ -40,10 +40,10 @@
 - [Solve] - [LDAP injection - authentification]
 - [Solve] - [NoSQL injection - authentification]
 - [Solve] - [Path Truncation]
-- [-----] - [PHP Sérialisation]
-- [-----] - [SQL injection - numérique]
+- [Solve] - [PHP Sérialisation]
+- [Solve] - [SQL injection - numérique]
 - [-----] - [SQL Injection - Routed]
-- [-----] - [SQL Truncation]
+- [Solve] - [SQL Truncation]
 - [-----] - [XML External Entity]
 - [-----] - [XPath injection - authentification]
 - [-----] - [Java - Spring Boot]
