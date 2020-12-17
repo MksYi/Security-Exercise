@@ -7,6 +7,7 @@ Security-Exercise
 - [Pwn-CTF](Pwn-CTF) | ...
 - [Root-Me](Root-Me) | [www.root-me.org/en/Challenges/](https://www.root-me.org/en/Challenges/)
 - [VulnHub](VulnHub) | [vulnhub.com](https://vulnhub.com/)
+- [Upload-labs](Upload-labs) | [upload-labs](https://github.com/c0ny1/upload-labs)
 
 ## 授權聲明
 [![copyright © 2020 By MksYi](https://img.shields.io/badge/copyright%20©-%202019%20By%20MksYi-blue.svg)](https://mks.tw/)
